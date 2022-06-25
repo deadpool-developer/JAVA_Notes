@@ -1,0 +1,44 @@
+1. Object Oriented programming trie to map code instructions with real world making the code short and easier to understand
+
+** WHAT IS OBJECT ORIENTED PROGRAMMING **
+    1. Solving a problem by creating objects is one of the most popular approaches in programming.
+       This is called as Obhect Oriented programming
+
+** WHAT IS DRY? **
+    DRY stands for --> Do not repeat yourself --> Focus on code reusability
+
+** CLASS **
+    A class is a blueprint for creating objects
+     
+** OBJECT **
+    1. An object is an instantiation of a class.
+    2. When a class is defined, a template(info) is defined.
+    3. Memory is allocated after object instantiation.
+
+** HOW TO MODEL A PROBLEM IN OOPS **
+    We indentify the following:
+        1. NOUN --> class --> Employee
+        2. ADJECTIVE --> Attributes --> name, age, Salary
+        3. VERB --> Methods --> getSalary(), increment()
+-----------------------------------------------------------------------------------------------------------------------------------
+
+2. BASIC Terminilogies used in OOPS
+    i. ABSTRACTION --> Hiding the internal details [showing only the essential information]
+        eg --> Use this phone without bothering about how it was made
+    
+    ii. Encapsulation --> The act of putting various components together[in a capsule]
+        eg --> Laptop is a single entity with wifi + speaker + storage in a single box
+    
+        In java, Encapsulation simply means that the sensitive data can be hidden from the users
+
+    iii. INHERITANCE -->  The act of deriving new things from existing things.
+        Rickshaw -->  E- Rickshaw
+        Phone --> Smart Phone
+            IMPLEMENTS DRY!!
+
+    iv. POLYMORPHISM --> One entity many forms
+        SmartPhone --> Phone
+        SmartPhone --> Calculator
+
+-----------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        "RockPaperScissors",
+        "GuessTheNumber",
+        "Chapter9",
+        "Chapter8",
+        "Chapter7",
+        "Chapter6",
+        "Chapter5/PracticeSet",
+        "Chapter4/PracticeSet",
+        "Chapter10",
+        "LibraryManagement"
+    ]
+}
